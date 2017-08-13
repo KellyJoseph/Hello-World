@@ -8,3 +8,4 @@ My hobbies are games and playing the guitar. I love Zelda and Alkaline Trio.
 My favorite food is roast lamb and ten - don.
 My favorite drinks are stout from the bottle, jasmine tea, black tea with milk and raspberry juice.
 I'm new to computer programming. Right now I'm studing Java via "The Art And Science of Java". by Eric S. Roberts.
+I hope to work on language learning software and/or games when I reach a reasonable proficiency.
